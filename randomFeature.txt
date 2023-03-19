@@ -1,1 +1,1 @@
-Learning to send a pull request qwhere we are nopt a collaborator.
+Learning to send pull request where we are not a collaborator.
